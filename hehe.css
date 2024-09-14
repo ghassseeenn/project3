@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DocPlanner Reproduction</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <a href="#" class="logo">DocPlanner</a>
+            <nav>
+                <ul>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Careers</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1>Making the healthcare experience more human</h1>
+            <p>We help millions of patients and doctors find each other. Meet our product that helps improve healthcare for everyone.</p>
+            <a href="#" class="cta-btn">Learn More</a>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section class="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="service-container">
+                <div class="service-box">
+                    <img src="path-to-patient-image.jpg" alt="For Patients">
+                    <h3>For patients</h3>
+                    <p>Find a doctor, book a visit, and solve any health-related doubts.</p>
+                </div>
+                <div class="service-box">
+                    <img src="path-to-doctor-image.jpg" alt="For Doctors">
+                    <h3>For doctors</h3>
+                    <p>Grow your practice and improve your patient experience.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <h2>What our users are saying</h2>
+            <div class="testimonial-container">
+                <div class="testimonial">
+                    <img src="path-to-user1.jpg" alt="User 1">
+                    <p>"DocPlanner helps me find the best doctors in my area!"</p>
+                    <span>- John Doe</span>
+                </div>
+                <div class="testimonial">
+                    <img src="path-to-user2.jpg" alt="User 2">
+                    <p>"Booking a visit has never been easier thanks to this platform."</p>
+                    <span>- Jane Smith</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 DocPlanner. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
